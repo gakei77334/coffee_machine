@@ -34,9 +34,6 @@ resources = {
 }
 
 
-
-
-
 def display_report():
     """Display current resources"""
     print(f"Water: {resources['water']}")
